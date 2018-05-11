@@ -1,0 +1,39 @@
+# This file contains metadata for your plugin. Since 
+# version 2.0 of QGIS this is the proper way to supply 
+# information about a plugin. The old method of 
+# embedding metadata in __init__.py will 
+# is no longer supported since version 2.0.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=Variables live changer
+qgisMinimumVersion=3.0
+description=It enables to live change variables context
+version=0.1
+author=Thomas Gratier / WebGeoDataVore
+email=thomas.gratier@webgeodatavore.com
+
+about=It eases the usage of variables context to make them live change.
+
+tracker=https://github.com/webgeodatavore/variables-live-changer/issues
+repository=https://github.com/webgeodatavore/variables-live-changer/
+# End of mandatory metadata
+
+# Recommended items:
+
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=python,qgis3,context,variables
+
+homepage=https://github.com/webgeodatavore/variables-live-changer/
+category=Plugins
+icon=icon.png
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+

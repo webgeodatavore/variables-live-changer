@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/variables_live_changer" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
